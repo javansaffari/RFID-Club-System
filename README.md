@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# RFID-Club-System
+RFID Club System is an open-source platform for managing customer memberships with RFID technology. It enables businesses to issue RFID cards, track balances, and process transactions. Customers get a seamless experience, while managers can charge cards, apply discounts, and manage records efficiently.
+>>>>>>> c5ca6631a2fe50eb6686b2366e5cc4f097c52469
